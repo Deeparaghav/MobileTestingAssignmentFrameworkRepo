@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="false">
+<listeners>
+	<listener class-name="C:\Users\DeepashreeSuryakumar\git\HybridMavenAndroid\Hybrid_Maven\src\main\java\resource\ExtentReporterNG"/>
+	</listeners>
+  <test thread-count="5"  name="TestNG">
+   <classes>
+   <class name="khan.nativeapp.testcases.KhanAppTest"/>
+   </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

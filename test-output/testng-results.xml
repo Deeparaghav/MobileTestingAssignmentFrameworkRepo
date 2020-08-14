@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="229637" started-at="2020-08-14T17:26:13Z" finished-at="2020-08-14T17:30:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="229637" started-at="2020-08-14T17:26:13Z" finished-at="2020-08-14T17:30:02Z">
+      <class name="khan.nativeapp.testcases.KhanAppTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:khan.nativeapp.testcases.KhanAppTest@175c2241]" name="beforeTest" is-config="true" duration-ms="43013" started-at="2020-08-14T17:26:13Z" finished-at="2020-08-14T17:26:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="TC01()[pri:0, instance:khan.nativeapp.testcases.KhanAppTest@175c2241]" name="TC01" duration-ms="70389" started-at="2020-08-14T17:26:56Z" finished-at="2020-08-14T17:28:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01 -->
+        <test-method status="PASS" signature="TC02()[pri:1, instance:khan.nativeapp.testcases.KhanAppTest@175c2241]" name="TC02" duration-ms="51236" started-at="2020-08-14T17:28:06Z" finished-at="2020-08-14T17:28:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02 -->
+        <test-method status="PASS" signature="TC03()[pri:2, instance:khan.nativeapp.testcases.KhanAppTest@175c2241]" name="TC03" duration-ms="36810" started-at="2020-08-14T17:28:57Z" finished-at="2020-08-14T17:29:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC03 -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:khan.nativeapp.testcases.KhanAppTest@175c2241]" name="afterTest" is-config="true" duration-ms="28132" started-at="2020-08-14T17:29:34Z" finished-at="2020-08-14T17:30:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- khan.nativeapp.testcases.KhanAppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
